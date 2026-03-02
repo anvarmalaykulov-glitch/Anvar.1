@@ -131,13 +131,11 @@
 
             <textarea rows="4" placeholder="Write your questions or comments here..."></textarea>
 
-            <buttononclick="showMessage()">Submit Message</button>
-</div>
-
-<script>function showMessage() {
+           <button onclick="showMessage()">Submit Message</button>
+<script>
+function showMessage() {
     alert("Your message has been sent successfully!");
 }
 </script>
-
 </body>
 </html>
