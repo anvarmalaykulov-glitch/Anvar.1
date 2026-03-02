@@ -100,33 +100,11 @@
     <!-- ЛЕВОЕ МЕНЮ -->
     <div class="sidebar">
         <h2>Menu</h2>
-        <a href="#hobbies">My Hobbies</a>
-        <a href="#todo">Monthly To-Do Lists</a>
-        <a href="#video">Featured Video</a>
+       <a href="hobbies.html">My Hobbies</a>
+<a href="todo.html">Monthly To-Do Lists</a>
+<a href="video.html">Featured Video</a>
     </div>
-    <hr>
-
-<h2 id="hobbies">My Hobbies</h2>
-<p>I like gaming, coding, and спорт.</p>
-
-<hr>
-
-<h2 id="todo">Monthly To-Do Lists</h2>
-<ul>
-    <li>Finish website</li>
-    <li>Study HTML & CSS</li>
-    <li>Practice English</li>
-</ul>
-
-<hr>
-
-<h2 id="video">Featured Video</h2>
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-frameborder="0"
-allowfullscreen>
-</iframe>
-
+    
     <!-- ПРАВАЯ ЧАСТЬ -->
     <div class="content">
 
